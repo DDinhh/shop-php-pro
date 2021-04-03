@@ -1,5 +1,5 @@
 <?php
-$host = "192.168.1.13";
+$host = "28f6aa1371cb.ngrok.io";
 $username = "root";
 $password = "";
 $database = "thietbi";
