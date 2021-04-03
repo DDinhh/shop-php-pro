@@ -1,7 +1,7 @@
 <?php
-$host = "28f6aa1371cb.ngrok.io";
+$host = "68.183.224.212:3366";
 $username = "root";
-$password = "";
+$password = "YMEQKatQ2Jpk3fXThN396NG6TH6yXPzx";
 $database = "thietbi";
 
 $conn = mysqli_connect($host,$username,$password,$database);
